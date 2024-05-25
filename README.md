@@ -1,1 +1,3 @@
-landing page
+Creating a landing page is an excellent project for beginners in web development. This project requires a foundational understanding of HTML and CSS. You will learn how to add columns, divide sections, arrange items, and incorporate headers and footers. Most importantly, you will use your creativity to make the page look impressive.
+
+Key areas to focus on include alignments, padding, color palette, boxes, and other elements on the page. Use CSS carefully to ensure that elements do not overlap and that the layout is visually appealing and functional. This project will help you develop essential skills in web design and front-end development, allowing you to bring your creative vision to life while adhering to best practices in web development.
